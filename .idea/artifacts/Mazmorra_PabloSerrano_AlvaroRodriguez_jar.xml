@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mazmorra_PabloSerrano_AlvaroRodriguez:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mazmorra_PabloSerrano_AlvaroRodriguez_jar</output-path>
+    <root id="archive" name="Mazmorra_PabloSerrano_AlvaroRodriguez.jar">
+      <element id="module-output" name="Mazmorra_PabloSerrano_AlvaroRodriguez" />
+    </root>
+  </artifact>
+</component>
